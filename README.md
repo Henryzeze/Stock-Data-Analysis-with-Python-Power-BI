@@ -26,13 +26,15 @@ Preliminary analysis was done on Python after extracting the dataset. The datase
 
 Python-based visuals:
 
-| Open price against the Date |     Dividends overtime      |
-|-----------------------------|-----------------------------|
-| ![](Line-chart-stock-data.png) | ![](dividends-plot.png) | 
+|   Open price against the Date  |        Dividends overtime         |
+|--------------------------------|-----------------------------------|
+| ![](Line-chart-stock-data.png) |       ![](dividends-plot.png)     | 
 
-Subsequently, in-depth data profiling and analysis were carried out using Microsoft Power BI to uncover further insights from the dataset. Custom visualization was employed within Power BI utilizing the Microsoft Appsource .
+Subsequently, in-depth data profiling and analysis were carried out using Microsoft Power BI to uncover further insights from the dataset. Custom visualization was employed within Power BI utilizing the Microsoft Appsource.
 
 Microsoft Power BI custom visuals:
-![](Stock-dashboard.JPG)
+![](Stock-dashboard1.jpg)
 
 ### Insights
+- The stock seems to have a reasonable amount of volatility, as indicated by the daily price fluctuations. This could mean there are opportunities for traders who profit from short-term price movements.
+- The volume of shares traded daily is quite high, indicating a good level of liquidity. This means that investors can buy or sell a significant number of shares without drastically affecting the stock's price.
